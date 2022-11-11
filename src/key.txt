@@ -1,0 +1,8 @@
+Here is your key: bc339a3e
+
+Please append it to all of your API requests,
+
+OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=bc339a3e
+
+Click the following URL to activate your key: http://www.omdbapi.com/apikey.aspx?VERIFYKEY=152bce72-d6f8-43ad-95e0-c5caa15d9554
+If you did not make this request, please disregard this email.

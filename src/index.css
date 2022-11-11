@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  background-color: #f6f6f6;
+}
+
+.movie-rating span {
+  margin-right: 20px;
+}
+
+.movie-info > div span:first-child {
+  padding: 10px 0px;
+  color: black;
+  font-weight: 600;
+  width: 100px;
+  display: inline-block;
+}
+
+.movie-info > div span {
+  color: #f9a11b;
+}
+
+.card-item {
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
